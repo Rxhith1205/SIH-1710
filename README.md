@@ -73,7 +73,8 @@ Architecture Diagram
 ```
 
 ## System Architecture of RailGuide – Smart Railway Station Navigation System
-![alt text](image.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7d1e2cdb-bc79-476c-9940-a43c11ac44e8" />
+
 
 ## Use Cases
 1. Find a Platform: Passengers can locate their required platform and receive directions from their current location.
